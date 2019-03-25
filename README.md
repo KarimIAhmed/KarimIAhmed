@@ -1,2 +1,0 @@
-# karimiahmed
-static website
